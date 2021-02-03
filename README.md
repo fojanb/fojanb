@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on 'Shopping-cart' repo via React.js
 - 🌱 I’m always learning ... andddddd working as well
 - :heart:I like Front-End side a lot 
-- :candy:My favorite theme in VScode is Ayu Mirage and Dracula
+- :candy:My favorite themes in VScode is Ayu Mirage and Dracula
 - 📫 How to reach me: fojanbabaali@gmail.com
 - ⚡ Fun fact: N/A
 
