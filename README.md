@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on 'Shopping-cart' repo via React.js
 - 🌱 I’m always learning ... andddddd working as welllll
 - :heart:I like HTML,CSS,JS,React,SQL,PHP,Python :)
-- :candy:My favorite themes in VScode is Gruvbox Black !
+- :candy:My favorite themes in VScode is 'One Dark Pro Monokai Darker' !
 - 📫 How to reach me: fojanbabaali@gmail.com
 - ⚡ My favorite font :monospace (Cute!)
 
