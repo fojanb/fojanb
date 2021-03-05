@@ -1,6 +1,6 @@
 ### Hello World ! 👋😄👋
 
- <I am Fojan, a hardworking web-developer from Canada/> :point_right: 💻
+ <I am Fojan, a self-motivated web developer from Canada/> :point_right: 💻
 
 - 🔭 I’m currently working on some React apps.
 - 🌱 I’m always learning ... andddddd working as welllll
