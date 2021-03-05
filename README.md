@@ -7,5 +7,5 @@
 - :heart:I like HTML, CSS, JS, React, jQuery, SQL, PHP, Python :)
 - :candy:Favorite themes in VScode : 'Codepen Theme'
 - 📫 How to reach me : fojanbabaali@gmail.com
-- ⚡ My favorite font : "Source Code Pro" <3
+- ⚡ My favorite font : "Source Code Pro"
 
