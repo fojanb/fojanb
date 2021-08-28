@@ -1,6 +1,6 @@
 ### Hello World ! 👋😄👋
 
- <I am Fojan, a self-motivated web developer from Canada/> :point_right: 💻
+ <I am Fojan, a self-motivated Frontend developer/> :point_right: 💻
 
 - ✌  I’m currently working on some ReactJS & NextJS projects.
 - 🌱 I’m always learning ... and working as well
