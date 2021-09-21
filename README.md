@@ -2,7 +2,7 @@
 
  <I am Fojan, a self-motivated Frontend developer/> :point_right: 💻
 
-- ✌  I’m currently working on some ReactJS & NextJS projects.
+- ✌  Currently working on some ReactJS & NextJS projects.
 - 🌱 Always learning ... and working as well
 - 💫 I like HTML, CSS, JS, ReactJS, NextJS and jQuery :)
 - 🍬 Favorite themes in VScode : 'Slime'
