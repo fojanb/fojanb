@@ -1,4 +1,4 @@
-### Hello World ! 👋😄👋
+### Hello World ! 🙋
 
  <I am Fojan, a self-motivated Frontend developer/> :point_right: 💻
 
