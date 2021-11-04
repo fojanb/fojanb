@@ -5,7 +5,7 @@
 - Currently working on some React projects
 - 🌱 Always learning
 - HTML, CSS, JS, React, Tailwind
-- 🍬 Favorite theme in VScode : 'Noctis Minimus'
+- 🌞 Favorite theme in VScode : 'Noctis Minimus'
 - How to reach me : fojanbabaali@gmail.com
 - 💜 Favorite font : "Source Code Pro"
 
