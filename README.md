@@ -7,5 +7,5 @@
 - HTML, CSS, JS, React, Tailwind
 - 🌞 Favorite theme in VScode : 'Noctis Minimus'
 - How to reach me : fojanbabaali@gmail.com
-- 💜 Favorite font : "Source Code Pro"
+- 🌙 Favorite font : "Source Code Pro"
 
