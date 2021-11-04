@@ -5,7 +5,7 @@
 - ✌  Currently working on some React projects
 - 🌱 Always learning ... and working as well
 - 💫 I like HTML, CSS, JS and React
-- 🍬 Favorite themes in VScode : 'Slime'
+- 🍬 Favorite themes in VScode : 'Noctis Minimus'
 - 💌 How to reach me : fojanbabaali@gmail.com
 - 💜 My favorite font : "Source Code Pro"
 
