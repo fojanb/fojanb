@@ -1,6 +1,6 @@
-### Hello World ! 🙋
+### Hello 🙋
 
- <I am Fojan, a self-motivated Frontend developer/> :point_right: 💻
+ <Self-motivated Frontend Developer/>
 
 - 🍀 Currently learning node.js
 - 🌱 Always learning
