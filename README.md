@@ -1,5 +1,3 @@
-Hi there, I'm Fojan
----
 ## **About me**
 
 - 💫 Currently learning node.js
