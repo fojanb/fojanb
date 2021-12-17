@@ -1,4 +1,4 @@
-:trollface:
+:ghost:
 
  <Self-motivated Frontend Developer/>
 
