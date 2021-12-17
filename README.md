@@ -1,25 +1,17 @@
 ## **<Self-motivated/>**
-- 💫 Currently learning node.js
-- 🔮 React.js, TailwindCSS
-- :space_invader: I write comments on my codes & I am fine with it. 
-- :earth_africa: Reach me at : fojanbabaali@gmail.com
+
 
 <!-- markdownlint-disable MD033 MD042-->
 
-# Hi there, I'm **[Jose Gracia Berenguer](https://jgracia.es)**! 👋
-
-Full-time **computer engineering student** (**[CE](https://www.upv.es/contenidos/SMAT/epsa/756188normalc.html)**)🧑‍🎓🎓. Senior technician in web applications development (**[DAW](https://www.todofp.es/que-como-y-donde-estudiar/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html)**). Technician in microcomputer systems and networks (**[SMR](https://www.todofp.es/que-como-y-donde-estudiar/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html)**).
-
+# Hi there, I'm Fojan
 ---
 
 ## **😊 About me**
 
-- 🔭 I’m currently working on my engineer's degree.
-- 🌱 I’m learning C and Python.
-- 👯 I’m looking to start a brand-new project/idea.
-- 🤔 I’m looking for help finding a job while I finish up my university degree.
-- 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
-- ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or going out with the bike 🚴
+- 💫 Currently learning node.js
+- 🔮 React.js, TailwindCSS
+- :space_invader: I write comments on my codes & I am fine with it. 
+- :earth_africa: Reach me at : fojanbabaali@gmail.com
 
 ---
 
