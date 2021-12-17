@@ -1,8 +1,5 @@
-<!-- markdownlint-disable MD033 MD042-->
-
 # Hi there, I'm Fojan
 ---
-
 ## **About me**
 
 - 💫 Currently learning node.js
@@ -44,4 +41,4 @@
     </a>
 </div>
 
----
+
