@@ -1,4 +1,4 @@
-###:trollface:
+:trollface:
 
  <Self-motivated Frontend Developer/>
 
