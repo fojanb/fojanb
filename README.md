@@ -7,7 +7,7 @@
 
 ---
 
-## **📊 Stats**
+## **:part_alternation_mark: Stats**
 
 <div align="center" style="text-align:center">
     <a href="#">
