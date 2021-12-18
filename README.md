@@ -19,7 +19,7 @@
             alt="Fojan's Github commit streak">
     </a>
     <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fojanb&layout=compact&theme=tokyonight&langs_count=4"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fojanb&layout=compact&theme=tokyonight&langs_count=2"/>
     </a>
 <!--     <a href="https://wakatime.com/@d02b98bb-107e-4342-a6ae-9730341305b7/">
         <img width="40%" src="https://wakatime.com/share/@d02b98bb-107e-4342-a6ae-9730341305b7/a14535da-67f8-49b0-a5ec-c4b08b8e9438.svg"
