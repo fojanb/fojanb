@@ -19,7 +19,7 @@
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fojanb&theme=monokai"
             alt="fojanb's Github commit streak">
     </a>
-    <a href="https://wakatime.com/@fojanb/">
+    <a href="https://wakatime.com/@d02b98bb-107e-4342-a6ae-9730341305b7/">
         <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=fojanb&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
             alt="fojanb's wakatime last year stats">
     </a>
