@@ -29,7 +29,7 @@
 
 ---
 
-## **:earth_africa: How to reach me**
+## **:bell: How to reach me**
 
 <div align="center" style="text-align:center">
     <a href="mailto:fojanbabaali@gmail.com">
