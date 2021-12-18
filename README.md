@@ -10,7 +10,7 @@
 
 ## **📊 Stats**
 
-<div align="center" style="text-align:center">
+<div align="center" style="text-align:center background-color:green">
     <a href="#">
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fojanb&show_icons=true&theme=monokai&count_private=true"
             alt="fojan's Github stats">
