@@ -11,15 +11,15 @@
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fojanb&show_icons=true&theme=tokyonight&count_private=true"
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fojanb&show_icons=true&theme=ayu-mirage&count_private=true"
             alt="Fojan's Github stats">
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fojanb&theme=tokyonight"
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fojanb&theme=ayu-mirage"
             alt="Fojan's Github commit streak">
     </a>
     <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fojanb&layout=compact&theme=tokyonight&langs_count=4" alt="Fojan's programming languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fojanb&layout=compact&theme=ayu-mirage&langs_count=4" alt="Fojan's programming languages"/>
     </a>
 <!--     <a href="https://wakatime.com/@d02b98bb-107e-4342-a6ae-9730341305b7/">
         <img width="40%" src="https://wakatime.com/share/@d02b98bb-107e-4342-a6ae-9730341305b7/a14535da-67f8-49b0-a5ec-c4b08b8e9438.svg"
