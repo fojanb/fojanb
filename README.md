@@ -18,8 +18,8 @@
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fojanb&theme=tokyonight"
             alt="Fojan's Github commit streak">
     </a>
-    <a>
-        <img width="600" height="400" src="https://ionicabizau.github.io/github-profile-languages/api.html?fojanb">
+    <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fojanb&layout=compact&theme=monokai&langs_count=12"/>
     </a>
 <!--     <a href="https://wakatime.com/@d02b98bb-107e-4342-a6ae-9730341305b7/">
         <img width="40%" src="https://wakatime.com/share/@d02b98bb-107e-4342-a6ae-9730341305b7/a14535da-67f8-49b0-a5ec-c4b08b8e9438.svg"
