@@ -2,7 +2,7 @@
 
 - 💫 Currently learning node.js
 - 🔮 React.js, TailwindCSS
-- :full_moon: self-motivated
+- :full_moon: Self-motivated
 - :space_invader: I write comments on my codes & I am fine with it. 
 - :earth_africa: Reach me at : fojanbabaali@gmail.com
 
