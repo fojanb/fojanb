@@ -20,7 +20,7 @@
             alt="fojanb's Github commit streak">
     </a>
     <a href="https://wakatime.com/@d02b98bb-107e-4342-a6ae-9730341305b7/">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=fojanb&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+        <img width="70%" src="https://wakatime.com/share/@d02b98bb-107e-4342-a6ae-9730341305b7/a14535da-67f8-49b0-a5ec-c4b08b8e9438.svg"
             alt="fojanb's wakatime last year stats">
     </a>
 </div>
