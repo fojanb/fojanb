@@ -18,6 +18,7 @@
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fojanb&theme=tokyonight"
             alt="Fojan's Github commit streak">
     </a>
+    <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?fojanb" frameborder="0"></iframe>
 <!--     <a href="https://wakatime.com/@d02b98bb-107e-4342-a6ae-9730341305b7/">
         <img width="40%" src="https://wakatime.com/share/@d02b98bb-107e-4342-a6ae-9730341305b7/a14535da-67f8-49b0-a5ec-c4b08b8e9438.svg"
             alt="Fojan's wakatime last year stats">
