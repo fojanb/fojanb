@@ -1,9 +1,9 @@
 ## **About me**
 
--:small_blue_diamond:Currently learning node.js
--:small_blue_diamond:React.js, TailwindCSS
--:small_blue_diamond:Self-motivated
--:small_blue_diamond:I write comments on my codes & I am fine with it:)
+- :small_blue_diamond:Currently learning node.js
+- :small_blue_diamond:React.js, TailwindCSS
+- :small_blue_diamond:Self-motivated
+- :small_blue_diamond:I write comments on my codes & I am fine with it:)
 
 ---
 
