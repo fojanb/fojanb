@@ -15,7 +15,7 @@
             alt="Fojan's Github stats">
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fojanb&theme=city_lights"
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fojanb&theme=dracula"
             alt="Fojan's Github commit streak">
     </a>
 <!--     <a href="https://wakatime.com/@d02b98bb-107e-4342-a6ae-9730341305b7/">
