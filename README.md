@@ -1,9 +1,9 @@
 ## **About me**
 
-- :fallen_leaf: Currently learning node.js
-- 🔮 React.js, TailwindCSS
-- :earth_africa: Self-motivated
-- :space_invader: I write comments on my codes & I am fine with it
+- Currently learning node.js
+- React.js, TailwindCSS
+- Self-motivated
+- I write comments on my codes & I am fine with it:)
 
 ---
 
