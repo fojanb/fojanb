@@ -30,8 +30,9 @@
 
 <div align="center" style="text-align:center">
     <a href="mailto:fojanbabaali@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-            alt="Fojan's Gmail">
+        <button>GMAIL</button>
+<!--         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
+            alt="Fojan's Gmail"> -->
     </a>
     <a href="https://www.linkedin.com/in/fojanbabaali/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
