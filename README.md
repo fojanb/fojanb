@@ -11,11 +11,11 @@
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fojanb&show_icons=true&theme=ayu-mirage&count_private=true"
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fojanb&show_icons=true&theme=prussian&count_private=true"
             alt="Fojan's Github stats">
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fojanb&theme=ayu-mirage"
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fojanb&theme=prussian"
             alt="Fojan's Github commit streak">
     </a>
 <!--     <a href="https://wakatime.com/@d02b98bb-107e-4342-a6ae-9730341305b7/">
