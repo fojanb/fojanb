@@ -3,7 +3,7 @@
 :small_blue_diamond: Currently learning node.js<br/>
 :small_blue_diamond: React.js, TailwindCSS<br/>
 :small_blue_diamond: Self-motivated<br/>
-:small_blue_diamond: I write comments on my codes & I am fine with it :)
+:small_blue_diamond: Roses are red, Violets are blue, there’s always a programmer better than you
 
 ---
 
