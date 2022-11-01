@@ -2,7 +2,7 @@
 
 :small_blue_diamond: Currently learning node.js<br/>
 :small_blue_diamond: HTML - CSS - JS<br/>
-:small_blue_diamond: React.js, TailwindCSS<br/>
+:small_blue_diamond: React.js, Bootstrap, TailwindCSS<br/>
 :small_blue_diamond: Self-motivated<br/>
 :small_blue_diamond: There’s always a programmer better than you.
 
