@@ -1,7 +1,8 @@
 ## **About me**
 
 :small_blue_diamond: Currently learning node.js<br/>
-:small_blue_diamond: HTML - CSS -<span align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40"</span><br/>
+:small_blue_diamond: HTML - CSS -
+<span align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40"</span><br/>
 :small_blue_diamond: React.js, Bootstrap, TailwindCSS<br/>
 :small_blue_diamond: REST API<br/>
 :small_blue_diamond: Self-motivated<br/>
@@ -11,7 +12,7 @@
 
 ## **:part_alternation_mark: Stats**
 
-<div align="center" style="text-align:center">
+<div align="left" style="text-align:center">
     <a href="#">
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fojanb&show_icons=true&theme=prussian&count_private=true"
             alt="Fojan's Github stats">
