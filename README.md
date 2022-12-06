@@ -1,10 +1,8 @@
 ## **Languages**
 
-:small_blue_diamond: Currently learning node.js</br>
 :small_blue_diamond: React.js, Bootstrap, TailwindCSS<br/>
 :small_blue_diamond: REST API</br>
 :small_blue_diamond: Self-motivated</br>
-:small_blue_diamond: There’s always a programmer better than you.
 <div align="center" style="text-align:center">
     <a href="mailto:fojanbabaali@gmail.com">
         <img src="https://camo.githubusercontent.com/d7ce8be22991a6e4963df7952c0a65accd4441d325ea256c672cff3946f641bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2532333135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333"
