@@ -1,8 +1,7 @@
 ## **About me**
 
 :small_blue_diamond: Currently learning node.js<br/>
-:small_blue_diamond: HTML - CSS -
-<span align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40"</span><br/>
+:small_blue_diamond: HTML - CSS - JS
 :small_blue_diamond: React.js, Bootstrap, TailwindCSS<br/>
 :small_blue_diamond: REST API<br/>
 :small_blue_diamond: Self-motivated<br/>
