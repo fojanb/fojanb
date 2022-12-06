@@ -12,7 +12,7 @@
             alt="Fojan's Gmail">
     </a>
     <a href="https://www.linkedin.com/in/fojanbabaali/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        <img src="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d2532334637444631433f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030303030266c6162656c436f6c6f723d25323346374446314326636f6c6f723d253233464643453541"
             alt="Fojan's LinkedIn">
     </a>
 </div>
