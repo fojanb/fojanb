@@ -2,32 +2,11 @@
 
 ## **Technologies**
 ### Languages
-<div align="center" style="text-align:center">
-    <a href="mailto:fojanbabaali@gmail.com">
-        <img src="https://camo.githubusercontent.com/d7ce8be22991a6e4963df7952c0a65accd4441d325ea256c672cff3946f641bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2532333135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333"
-            alt="Fojan's Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/fojanbabaali/">
-        <img src="https://camo.githubusercontent.com/b7cb856d6c14e9b6e5c1e46cf5f30210472df1c67bbbf1de1da8c6698cae6eb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d2532334637444631433f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030303030266c6162656c436f6c6f723d25323346374446314326636f6c6f723d253233464643453541"
-            alt="Fojan's LinkedIn">
-    </a>
-        <a href="https://www.linkedin.com/in/fojanbabaali/">
-        <img src="https://camo.githubusercontent.com/3089cae634b5524ec733e53b19f3f74ce09ef61897baf5f114620ebfc3916384/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d2532334534344432373f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666"
-            alt="Fojan's LinkedIn">
-    </a>
-            <a href="https://www.linkedin.com/in/fojanbabaali/">
-        <img src="https://camo.githubusercontent.com/f362757eaf3e85fcb2788e2b384b39a1cddc2c0f63ef3909c1276286e7eb5486/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d666666666666"
-            alt="Fojan's LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/fojanbabaali/">
-        <img src="https://camo.githubusercontent.com/090ce788cbb8a4f71dd46c3305c8aa3ed6fbdb4315c6dd1145a7ee9f416e556b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e642532304353532d3232443345453f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d666666666666"
-            alt="Fojan's LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/fojanbabaali/">
-        <img src="https://camo.githubusercontent.com/d7bbfe59602ae0172e4fed0cf1f3698e5fa534cd8871b85a1ba4a9a61b77abbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742532304a532d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d666666666666"
-            alt="Fojan's LinkedIn">
-    </a>
-</div>
+### Language :
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://camo.githubusercontent.com/b7cb856d6c14e9b6e5c1e46cf5f30210472df1c67bbbf1de1da8c6698cae6eb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d2532334637444631433f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030303030266c6162656c436f6c6f723d25323346374446314326636f6c6f723d253233464643453541)
 ---
 
 ## **:part_alternation_mark: Stats**
