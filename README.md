@@ -8,7 +8,7 @@
 :small_blue_diamond: There’s always a programmer better than you.
 <div align="center" style="text-align:center">
     <a href="mailto:fojanbabaali@gmail.com">
-        <img src="[https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white](https://camo.githubusercontent.com/d7ce8be22991a6e4963df7952c0a65accd4441d325ea256c672cff3946f641bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2532333135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333)"
+        <img src="https://camo.githubusercontent.com/d7ce8be22991a6e4963df7952c0a65accd4441d325ea256c672cff3946f641bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2532333135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333"
             alt="Fojan's Gmail">
     </a>
     <a href="https://www.linkedin.com/in/fojanbabaali/">
