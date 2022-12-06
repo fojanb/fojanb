@@ -1,5 +1,5 @@
-## **Languages**
-
+## **Technologies**
+![](https://komarev.com/ghpvc/?username=fojanb)<br/>
 :small_blue_diamond: React.js, Bootstrap, TailwindCSS<br/>
 :small_blue_diamond: REST API</br>
 :small_blue_diamond: Self-motivated</br>
