@@ -5,6 +5,17 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+### Libraries & Framework :
+
+![React](https://img.shields.io/badge/-React%20JS-007ACC?style=for-the-badge&logo=react&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-22D3EE?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
+
+### Tools:
+
+![Github](https://img.shields.io/badge/-Github-444444?style=for-the-badge&logo=github&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=ffffff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 
 ---
 
