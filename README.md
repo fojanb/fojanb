@@ -16,7 +16,7 @@
 ![Github](https://img.shields.io/badge/-Github-444444?style=for-the-badge&logo=github&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![img_223358](https://user-images.githubusercontent.com/23070621/230542389-285605e6-efe8-44ae-b20c-0db91e676ff4.png)
+![New Project](https://user-images.githubusercontent.com/23070621/230542785-a3c3cbb3-8d96-4dfa-a31c-96535f410788.png)
 
 ---
 
