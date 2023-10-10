@@ -8,7 +8,7 @@
 ### Libraries & Framework :
 
 ![React](https://img.shields.io/badge/-React%20JS-007ACC?style=for-the-badge&logo=react&logoColor=ffffff)
-![VUEJS](https://github.com/fojanb/fojanb/assets/23070621/d16679f7-2649-4c50-9618-edeabe0348ea)
+![VUE](https://github.com/fojanb/fojanb/assets/23070621/1ecd94ef-2c53-4345-8625-fe318a51a8fe)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-22D3EE?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
 
