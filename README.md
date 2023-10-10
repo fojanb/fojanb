@@ -8,6 +8,7 @@
 ### Libraries & Framework :
 
 ![React](https://img.shields.io/badge/-React%20JS-007ACC?style=for-the-badge&logo=react&logoColor=ffffff)
+![Vue_js_logo](https://github.com/fojanb/20-Days-of-Vue-js/assets/23070621/c23c1958-4b19-4b88-a972-7e25ac558cd6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-22D3EE?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
 
