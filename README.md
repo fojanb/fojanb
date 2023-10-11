@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=fojanb)<br/>
 :small_blue_diamond:There’s always a programmer better than you.
 ## **Technologies**
-### Language :
+### Language:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-### Libraries & Framework :
+### Libraries & Framework:
 
 ![React](https://img.shields.io/badge/-React%20JS-007ACC?style=for-the-badge&logo=react&logoColor=ffffff)
 ![VUE](https://github.com/fojanb/fojanb/assets/23070621/d65f04c8-12b9-4c2d-98ff-221c6f6b1d24)
