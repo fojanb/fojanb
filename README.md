@@ -38,7 +38,7 @@
 
 ---
 
-## **:raising_hand: How to reach me**
+## **:snail: How to reach me**
 
 <div align="center" style="text-align:center">
     <a href="mailto:fojanbabaali@gmail.com">
