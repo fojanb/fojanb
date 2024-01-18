@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![golang-logo](https://github.com/fojanb/fojanb/assets/23070621/9110cb17-4597-4152-8793-36d9df18a233)
+![golang-icon](https://github.com/fojanb/fojanb/assets/23070621/1aef9c45-e5a5-4d80-b287-4fa64fd374c4)
 
 ### Libraries & Framework:
 
