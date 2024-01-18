@@ -10,6 +10,7 @@
 ### Libraries & Framework:
 
 ![React](https://img.shields.io/badge/-React%20JS-007ACC?style=for-the-badge&logo=react&logoColor=ffffff)
+![nodejs](https://github.com/fojanb/fojanb/assets/23070621/2d85f300-f907-4d03-b583-392b018d0fb4)
 ![VUE](https://github.com/fojanb/fojanb/assets/23070621/d65f04c8-12b9-4c2d-98ff-221c6f6b1d24)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-22D3EE?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
