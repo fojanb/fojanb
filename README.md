@@ -27,21 +27,6 @@
 
 ---
 
-## **:part_alternation_mark: Stats**
-
-<div align="left" style="text-align:center">
-    <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fojanb&show_icons=true&theme=prussian&count_private=true"
-            alt="Fojan's Github stats">
-    </a>
-    <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fojanb&theme=prussian"
-            alt="Fojan's Github commit streak">
-    </a>
-</div>
-
----
-
 ## **:snail: Reach out to Fojan**
 
 <div align="center" style="text-align:center">
