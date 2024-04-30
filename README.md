@@ -39,7 +39,7 @@
 
 ---
 
-## **:snail: How to reach me**
+## **:snail: Reach out to Fojan**
 
 <div align="center" style="text-align:center">
     <a href="mailto:fojanbabaali@gmail.com">
