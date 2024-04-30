@@ -6,7 +6,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![GOLANG](https://github.com/fojanb/fojanb/assets/23070621/05b98ff7-2c31-43a0-a041-39f603eaca7e)
-![python](https://github.com/fojanb/python/assets/23070621/95dfb9f8-6790-4222-8515-1f218c154273)
+![Python](https://github.com/fojanb/fojanb/assets/23070621/763c2960-827e-4739-aa89-fbee4004b34c)
 
 ### Libraries & Framework:
 
