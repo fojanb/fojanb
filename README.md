@@ -23,7 +23,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![API](https://user-images.githubusercontent.com/23070621/230546269-5d707b7d-2119-4079-b5f7-8643bb99f64b.png)
 ![npm](https://github.com/fojanb/fojanb/assets/23070621/170ed6bd-6572-4c8c-8276-62965c685458)
-![pip](https://github.com/fojanb/fojanb/assets/23070621/e069f284-bee5-4c9f-b1f7-ff11f0fd7afb)
+![pip](https://github.com/fojanb/fojanb/assets/23070621/423076cd-ac6c-420d-adae-1f46efddb826)
 
 ---
 
