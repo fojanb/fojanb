@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=fojanb)<br/>
-:small_blue_diamond:There’s always a programmer better than you.
+**:snail:** There’s always a programmer better than you.
 ## **Technologies**
 ### Language:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -24,10 +23,3 @@
 ![API](https://user-images.githubusercontent.com/23070621/230546269-5d707b7d-2119-4079-b5f7-8643bb99f64b.png)
 ![npm](https://github.com/fojanb/fojanb/assets/23070621/170ed6bd-6572-4c8c-8276-62965c685458)
 ![pip](https://github.com/fojanb/fojanb/assets/23070621/423076cd-ac6c-420d-adae-1f46efddb826)
-
----
-
-**:snail:**
-
-
-
